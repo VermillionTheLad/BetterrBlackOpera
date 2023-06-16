@@ -1,0 +1,64 @@
+{
+    "name": "BetterrBlack",
+    "description": "An actual dark theme because people can't seem to do them anymore.",
+    "version": "1.0",
+    "developer":
+    {
+        "name": "VermillionTheLad"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 343,
+                        "s": 100,
+                        "l": 46.5
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 5.5
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 112,
+                        "s": 80,
+                        "l": 44
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 272,
+                        "s": 32,
+                        "l": 16
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/darkgundam.jpg",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                }
+            }
+        },
+        "schema_version": 1
+    }
+}
