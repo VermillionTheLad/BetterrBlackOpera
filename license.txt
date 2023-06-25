@@ -1,4 +1,3 @@
-
   ____       _   _                 ____  _            _    
  |  _ \     | | | |               |  _ \| |          | |   
  | |_) | ___| |_| |_ ___ _ __ _ __| |_) | | __ _  ___| | __
@@ -8,6 +7,8 @@
                                                            
                                                            
                          
-Do whatever you want with this mod, I won't scream at you. I just made adjustements and added a cool wallpaper (https://en.gundam.info/about-gundam/series-pages/witch/gwitch/jp/gallery/2023/01/第12話エンドカード.jpg)
+Do whatever you want with this mod, I won't scream at you, it's just a recolor.
+I just made adjustements and added a cool wallpaper 
+(https://t.ly/KOqSW)
 
 Github : https://github.com/VermillionTheLad/BetterrBlackOpera/tree/main
